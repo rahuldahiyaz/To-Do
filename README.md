@@ -3,6 +3,9 @@
 A modern, full-stack Todo application built with Spring Boot (Java) backend and Next.js (React/TypeScript) frontend.
 
 
+<img width="894" height="777" alt="To-Do App" src="https://github.com/user-attachments/assets/87aa7a0a-b295-4a90-8451-b3d39c5c4625" />
+
+
 ## Features
 
 - ✅ Create, read, update (toggle completion), and delete tasks
