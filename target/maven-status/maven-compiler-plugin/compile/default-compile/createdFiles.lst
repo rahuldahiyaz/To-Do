@@ -1,0 +1,10 @@
+com/todo/service/TaskService.class
+com/todo/controller/TaskController$CreateTaskRequest.class
+com/todo/repository/TaskRepository.class
+com/todo/config/CorsConfig.class
+com/todo/controller/TaskController.class
+com/todo/exception/GlobalExceptionHandler$ValidationErrorResponse.class
+com/todo/exception/GlobalExceptionHandler.class
+com/todo/TodoApplication.class
+com/todo/exception/GlobalExceptionHandler$ErrorResponse.class
+com/todo/model/Task.class
